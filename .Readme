@@ -1,0 +1,5 @@
+1. unzip folder
+2. open folder with vsc code
+3.  npm install (for all dependemcies)
+4.  open mongodb compass and connect with localhost:27017
+5.  npm start

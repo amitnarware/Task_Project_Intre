@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "65e75d712b1804669a4264f0"
+  },
+  "email": "amit@gmail.com",
+  "password": "$2b$10$ek5CbRd/6g4IFvMqB1Z2JOUAVXnlDECGQ8KGbVB8uDU/a2WGwLSpm",
+  "createdAt": {
+    "$date": "2024-03-05T17:59:13.752Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e7627028a115719df799b5"
+  },
+  "email": "ankush@gmail.com",
+  "password": "$2b$10$BAyAsJOkgN2a7caHSieNeOVvTH8nC3dbNOkQMAWiXyPbl68b4Xm/.",
+  "createdAt": {
+    "$date": "2024-03-05T18:20:32.822Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e7699328f6361f638249a5"
+  },
+  "email": "subhash@gmail.com",
+  "password": "$2b$10$.zfgjRe2CxEFR8Jzy6Buye6IueaCOyVEY/jac0KgnLVqv4gYIzTv2",
+  "createdAt": {
+    "$date": "2024-03-05T18:50:59.950Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e77520c207801d6ca0ac62"
+  },
+  "email": "ankit@gmail.com",
+  "password": "$2b$10$eoywTcLUdVUFPHyti4gaaeSCW8Ec7P1DTWBnKmMFLKBTOhbYbyiqC",
+  "createdAt": {
+    "$date": "2024-03-05T19:40:16.081Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e775f4b83273ed6b59bf9c"
+  },
+  "email": "tanya@gmail.com",
+  "password": "$2b$10$KCmFSIWGeKGk/CTa/OApdehN8x7DXBTCsQJQPF2OCEW1OvOCBwY8y",
+  "createdAt": {
+    "$date": "2024-03-05T19:43:48.491Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e77878f964942221ca708d"
+  },
+  "email": "trivedi@gmail.com",
+  "password": "$2b$10$3mu0RVaeVJtKeaTSKiOaCOhwykes9mwzFn3xPXM0qAIOEga5SB6Oe",
+  "createdAt": {
+    "$date": "2024-03-05T19:54:32.657Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e7e49f0de33afad3cc3c80"
+  },
+  "email": "soni@gmail.com",
+  "password": "$2b$10$6IiVkFNTyOA1RgDCpF6.t.SXyfEUm7kvPdUB7sS2a0JlX.0HeRIum",
+  "createdAt": {
+    "$date": "2024-03-06T03:35:59.962Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e7efcfe4c04f8a122fb449"
+  },
+  "email": "user@example.com",
+  "password": "$2b$10$EVKRIZlZp5O6KSCdLlB7lOwpPU3ww7ai7G8jvt33LUFB6A8nQMfFq",
+  "createdAt": {
+    "$date": "2024-03-06T04:23:43.793Z"
+  },
+  "tokens": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e8030d7d16a97f255a7397"
+  },
+  "email": "narware@gmail.com",
+  "password": "$2b$10$odrvtgp3oVQX0rOr74yimOQnfwF7pcCny7G85jkPqA1Sl8e25Z7Ua",
+  "createdAt": {
+    "$date": "2024-03-06T05:45:49.436Z"
+  },
+  "tokens": [],
+  "__v": 0
+}]
